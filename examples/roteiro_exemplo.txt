@@ -1,0 +1,5 @@
+Cena 1: Você tem uma ideia de produto, mas não sabe por onde começar?
+Cena 2: Com inteligência artificial e Python, transforme a ideia em uma aplicação funcional.
+Cena 3: Construa interfaces modernas, autenticação segura e um banco de dados SQLite.
+Cena 4: Automatize tarefas, publique seu sistema e acompanhe os resultados em um dashboard.
+Cena 5: Monetize com assinaturas e leve seu micro SaaS a mais clientes. Comece agora.
